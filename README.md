@@ -18,3 +18,5 @@ as stated above
 This is a simple example
 
 ## How To Contribute
+
+### Copyright ME
