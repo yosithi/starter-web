@@ -11,6 +11,10 @@ using a web project.
 
 ## Purpose
 
+as stated above
+
 ## Deployment
+
+This is a simple example
 
 ## How To Contribute
